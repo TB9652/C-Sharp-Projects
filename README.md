@@ -7,3 +7,5 @@ This is an ASP.Net MVC web application which represents a newsletter database.  
 ![Newsletter sign-up](https://github.com/TB9652/C-Sharp-Projects/blob/master/SignUp.PNG)
 ![Newsletter sign-up](https://github.com/TB9652/C-Sharp-Projects/blob/master/Unsubscribe.PNG)
 
+[Newsletter](other_file.md)
+
